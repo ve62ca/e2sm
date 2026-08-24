@@ -1,5 +1,13 @@
 # e2sm
 
+## 0.6.4
+
+### Patch Changes
+
+- Update package metadata for the GitHub username change from `lemtoc` to `ve62ca` (author, repository URL, Changesets configuration, and LICENSE).
+
+- Remove the package-manager enforcement `preinstall` script so npm, Yarn, pnpm, and Bun consumers can install the package.
+
 ## 0.6.3
 
 ### Patch Changes

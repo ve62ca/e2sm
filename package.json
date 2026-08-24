@@ -1,11 +1,11 @@
 {
   "name": "e2sm",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "license": "MIT",
-  "author": "lemtoc",
+  "author": "ve62ca",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lemtoc/e2sm.git"
+    "url": "git+https://github.com/ve62ca/e2sm.git"
   },
   "bin": {
     "e2sm": "dist/index.mjs"
@@ -23,7 +23,6 @@
     "build": "tsdown",
     "prepublishOnly": "bun run build",
     "prepare": "lefthook install",
-    "preinstall": "npx only-allow bun",
     "fmt": "oxfmt",
     "fmt:check": "oxfmt --check",
     "lint": "oxlint",
