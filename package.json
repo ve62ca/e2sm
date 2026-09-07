@@ -1,11 +1,11 @@
 {
   "name": "e2sm",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "license": "MIT",
-  "author": "ve62ca",
+  "author": "xrryx",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ve62ca/e2sm.git"
+    "url": "git+https://github.com/xrryx/e2sm.git"
   },
   "bin": {
     "e2sm": "dist/index.mjs"

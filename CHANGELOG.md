@@ -1,5 +1,11 @@
 # e2sm
 
+## 0.6.5
+
+### Patch Changes
+
+- Update package metadata for the GitHub username change from `ve62ca` to `xrryx` (author, repository URL, Changesets configuration, and LICENSE).
+
 ## 0.6.4
 
 ### Patch Changes
